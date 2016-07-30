@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository. Excited 
+Hi, this is Abhijit. Currently learning, HTML, JS, JQuery, CSS, PHP, NODE.JS, AJAX. Also on Freecodecamp. 
